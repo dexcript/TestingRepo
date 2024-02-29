@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdfasdfasdf
+=======
+CentOS Linux release 7.9.2009 (Core)
+>>>>>>> 3f75a32fab9654c9c0c9dd1ba49aa2b7e6d00b91
